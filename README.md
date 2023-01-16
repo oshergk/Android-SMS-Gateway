@@ -15,4 +15,4 @@ api request example:
 ```
 Post request to: http://yourANDROIDphoneIP:8086/sendsms
 
-:)
+btw: if you want to use it from a server in different network you can use vpn :)
