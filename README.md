@@ -11,7 +11,6 @@ api request example:
     "number": "+1234567890",
     "message": "Hello, this is a test message.",
 }
-
 ```
 Post request to: http://yourANDROIDphoneIP:8086/sendsms
 
